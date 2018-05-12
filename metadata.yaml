@@ -1,0 +1,38 @@
+_repo: S-nnica_31821
+_version: 0.1.0
+alternative_title: Sónnica la cortesana. English
+contributor:
+  translator:
+    agent_name: Douglas, Frances
+    birthdate: 1870
+    deathdate: 1969
+    gutenberg_agent_id: '32436'
+    url: http://www.gutenberg.org/2009/agents/32436
+covers:
+- cover_type: archival
+  image_path: 31821-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2010-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sagunto (Spain) -- History -- Siege, 219-218 B.C. -- Fiction'
+title: Sónnica
+url: http://www.gutenberg.org/ebooks/31821
