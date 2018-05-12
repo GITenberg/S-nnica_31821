@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31821#S-nnica
 gutenberg_issued: '2010-03-29'
 gutenberg_type: Text
 identifiers:
